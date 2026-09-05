@@ -77,6 +77,20 @@
           "type": "txt"
         }
       ]
+    },
+    {
+      "id": "python-api-basics",
+      "title": "Python API Basics",
+      "description": "Learn how to fetch and use data from web APIs with Python",
+      "path": "assignments/python-api-basics",
+      "dueDate": "2026-09-12",
+      "attachments": [
+        {
+          "name": "Starter Code",
+          "file": "starter-code.py",
+          "type": "python"
+        }
+      ]
     }
   ]
 }
